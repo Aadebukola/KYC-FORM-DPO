@@ -1,0 +1,79 @@
+h1{
+    font-weight: 700 !important;
+    font-size: 40px !important;
+}
+nav{
+    border-bottom: 2px solid rgb(224, 212, 212);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-control{
+    border-radius: 0.8rem !important;
+    border: none !important;
+    background-color: #E9F7EF !important;
+    outline: none !important;
+    padding: 12px !important;
+}
+.member{
+    width: 60%;
+}
+.contact{
+    width: 60%;
+}
+.submit{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.8em 21em;
+    border: none;
+    width: 50%;
+    border-radius: 0.8em !important;
+    margin-bottom: 10px;
+}
+.select{
+    background-color: #E9F7EF !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 12px;
+    border: none;
+    outline: none;
+    border-radius: 0.8em !important;
+}
+
+.selectimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.selectimg p{
+    background-color: rgb(241, 27, 27);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em 2em;
+    border: none;
+    width: 50%;
+    border-radius: 0.8em !important;
+    margin-top: 80px;
+}
+.icon{
+ 
+    font-size: 10rem;
+    color: #E9F7EF;
+}
+.img{
+    display: none;
+}
+
+
+
+
