@@ -1,0 +1,55 @@
+.kyc{
+    display: flex;align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.requestlist{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 15px;
+color: white;
+background-color: #1616e9c6;
+}
+.requestlist p{
+    font-weight: 600;
+}
+
+.fl{
+    display: flex;
+    justify-content: around;
+    gap: 3.5em;
+    
+}
+.sl{
+    display: flex;
+    justify-content: around;
+    gap: 4.2em;
+}
+.app{
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}.rej{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.Pending{
+    background-color: rgba(255, 255, 0, 0.271);
+}
+
+.Approved{
+    background-color: #00ff0045;
+}
+
+.Rejected{
+    background-color: #ff000038;
+}

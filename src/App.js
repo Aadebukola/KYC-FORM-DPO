@@ -1,9 +1,9 @@
-import KycForm from './Kyc/kycForm';
+import Request from "./kycrequest/Request";
 
 function App() {
   return (
     <div>
-      <KycForm/>
+      <Request/>
     </div>
   );
 }
